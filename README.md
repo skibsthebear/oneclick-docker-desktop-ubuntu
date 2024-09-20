@@ -20,7 +20,7 @@ This project provides a one-click installation script for Docker on Ubuntu-based
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/docker-install-script.git
+git clone https://github.com/skibsthebear/docker-install-script.git
 
 2. Navigate to the project directory:
 cd docker-install-script
